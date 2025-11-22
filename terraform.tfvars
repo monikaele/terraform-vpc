@@ -1,0 +1,5 @@
+project_id = "my-gcp-project-id"
+region     = "us-central1"
+network_name = "custom-vpc"
+public_subnet_cidr = "10.1.1.0/24"
+private_subnet_cidr = "10.1.2.0/24"
